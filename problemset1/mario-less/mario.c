@@ -16,7 +16,7 @@ int main(void)
     {
         for(int i = 1; i < height; i++)
         {
-            printf(".");
+            printf(" ");
         }
         for(int j = 0; j < hash; j++)
         {
