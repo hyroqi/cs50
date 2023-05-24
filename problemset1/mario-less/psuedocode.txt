@@ -1,0 +1,5 @@
+
+while loop for 1 >= n <= 8
+    prompt for n
+while loop for i < height
+    iterate i, height - i amount of spaces, then write i amount of hash \n 
